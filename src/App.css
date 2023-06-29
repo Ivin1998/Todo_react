@@ -1,0 +1,26 @@
+.form-style{
+    width: 50%;
+    float: left;
+}
+body{
+    background-color:#f0f2f5;
+    
+}
+
+.submit{
+    margin-left: 10px;
+    width: 20%;
+}
+
+h1{
+    margin-left: 20%;
+}
+
+li{
+    margin-top: 5%;
+    margin-left: 15%;
+}
+.remove_button{
+    float: right;
+    margin-left: 30%;
+}
